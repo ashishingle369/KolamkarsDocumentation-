@@ -5,6 +5,8 @@ title: Introduction
 
 ## 2. Introduction
 
+### What is IT asset management and why companies need asset management software?
+
 ### 2.1 The Challenge
 
 Modern IT environments are complex ecosystems with assets spanning physical devices, virtual machines, cloud instances, IoT devices, and software applications. Traditional asset management approaches often result in:
