@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ApexaIQ Software Documentation',
   tagline: 'Complete Platform Guide',
-  favicon: 'img/apexa-iq-logo.png',
+  favicon: 'img/image.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -72,12 +72,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/apexa-iq-social-card.jpg',
+    image: 'img/image.png',
     navbar: {
-      title: 'ApexaIQ',
+      title: undefined,
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/apexa-iq-logo.png',
+        alt: 'ApexaIQ Logo',
+        src: 'img/image.png',
       },
       items: [
         {
