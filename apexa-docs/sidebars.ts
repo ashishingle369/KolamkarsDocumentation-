@@ -30,6 +30,7 @@ const sidebars: SidebarsConfig = {
     'apexa-iq/getting-started-guide',
     'apexa-iq/appendices',
     'apexa-iq/resources',
+    'apexa-iq/terminology',
   ],
 };
 

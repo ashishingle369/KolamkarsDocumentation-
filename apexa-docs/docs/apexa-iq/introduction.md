@@ -5,7 +5,11 @@ title: Introduction
 
 ## 2. Introduction
 
-### What is IT asset management and why companies need asset management software?
+### - What is IT asset management and why companies need asset management software?
+
+### - What industry problem does ApexaIQ solve?
+
+
 
 ### 2.1 The Challenge
 
