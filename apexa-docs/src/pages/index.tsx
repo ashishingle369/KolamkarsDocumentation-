@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/executive-summary">
+            to="/docs/apexa-iq/executive-summary">
             Go to Documentation
           </Link>
         </div>

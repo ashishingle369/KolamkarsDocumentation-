@@ -102,7 +102,7 @@ const config: Config = {
           items: [
             {
               label: 'Documentation',
-              to: '/docs/executive-summary',
+              to: '/docs/apexa-iq/executive-summary',
             },
           ],
         },
