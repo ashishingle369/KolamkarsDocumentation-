@@ -29,8 +29,8 @@ const sidebars: SidebarsConfig = {
     'apexa-iq/competitive-advantages',
     'apexa-iq/getting-started-guide',
     'apexa-iq/appendices',
-    'apexa-iq/resources',
     'apexa-iq/terminology',
+    'apexa-iq/resources',
   ],
 };
 
