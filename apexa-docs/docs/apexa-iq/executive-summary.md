@@ -9,7 +9,9 @@ title: Executive Summary
 
 **ApexaIQ** is a next-generation, agentless IT asset management and security hygiene platform that transforms how organizations discover, manage, and secure their IT infrastructure. Built on the principle that **"Unseen Assets = Unmanaged Risk,"** ApexaIQ brings complete visibility into your IT environment, uncovering shadow IT and providing actionable intelligence to proactively manage security risks.
 
-![Dashboard_video](../../static/img/apexaiq-dashboard.mp4)
+<video controls width="600">
+  <source src="/img/apexaiq-dashboard.mp4" type="video/mp4" />
+</video>
 
 ### 1.2 Mission Statement
 
