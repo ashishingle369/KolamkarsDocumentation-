@@ -9,7 +9,7 @@ title: Introduction
 
 ### - What industry problem does ApexaIQ solve?
 
-
+### - What is IT asset management and why companies need asset management software?
 
 ### 2.1 The Challenge
 
