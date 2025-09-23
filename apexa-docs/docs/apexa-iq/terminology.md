@@ -147,16 +147,16 @@ A Managed Services Provider (MSP) is **an outsourced third-party company that ta
 
 **How an MSP Works**
 
-- **Outsourcing:**Instead of an in-house team, a client company outsources these responsibilities to an MSP.
-- **Ongoing Support:**The MSP provides continuous support and active administration for the client's IT systems.
-- **Service Delivery:**Services can be delivered on the client's premises, from the MSP's data center, or a third-party data center.
+- **Outsourcing:** Instead of an in-house team, a client company outsources these responsibilities to an MSP.
+- **Ongoing Support:** The MSP provides continuous support and active administration for the client's IT systems.
+- **Service Delivery:** Services can be delivered on the client's premises, from the MSP's data center, or a third-party data center.
 
 **Benefits of Using an MSP**
 
-- **Proactive IT Management:**MSPs proactively monitor and manage systems to prevent issues before they become problems.
-- **Reduced Costs:**By outsourcing, companies can often reduce costs associated with hiring and training in-house IT staff and purchasing equipment.
-- **Access to Expertise:**Clients gain access to a team of specialized IT professionals with diverse skills and experience.
-- **Focus on Core Business:**Outsourcing IT management allows companies to focus on their core business operations.
+- **Proactive IT Management:** MSPs proactively monitor and manage systems to prevent issues before they become problems.
+- **Reduced Costs:** By outsourcing, companies can often reduce costs associated with hiring and training in-house IT staff and purchasing equipment.
+- **Access to Expertise:** Clients gain access to a team of specialized IT professionals with diverse skills and experience.
+- **Focus on Core Business:** Outsourcing IT management allows companies to focus on their core business operations.
 
 **Examples of MSP Services**
 
