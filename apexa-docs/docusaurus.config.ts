@@ -77,7 +77,7 @@ const config: Config = {
       title: undefined,
       logo: {
         alt: 'ApexaIQ Logo',
-        src: 'img/image.png',
+        //src: 'img/image.png',
         href: 'https://apexaiq.com',
       },
       items: [
