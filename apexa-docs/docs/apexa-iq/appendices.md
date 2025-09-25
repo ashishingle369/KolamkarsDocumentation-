@@ -15,7 +15,7 @@ title: Appendices
 - **Network:** 1Gbps network interface
 
 **Supported Protocols:**
-- **Network Discovery:** NMAP, SNMP, WMI, SSH
+- **Network Discovery:** NMAP, SNMP(Simple Network Management Protocol), WMI(Windows Management Instrumentation), SSH
 - **Cloud APIs:** AWS, Azure, Google Cloud Platform
 - **Directory Services:** Active Directory, LDAP
 - **Database Connections:** SQL Server, MySQL, PostgreSQL, Oracle
