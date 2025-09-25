@@ -69,5 +69,3 @@ title: Appendices
 **Shadow IT:** Unauthorized IT assets, applications, or services used without official approval.
 
 ---
-
-*This documentation represents the complete ApexaIQ platform capabilities as of September 22, 2025. For the most current information, please refer to the online documentation portal or contact ApexaIQ support.*
