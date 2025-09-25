@@ -42,4 +42,4 @@ title: Technical Architecture
 - **Encryption:** Data encrypted in transit and at rest
 - **Access Controls:** Role-based permissions and multi-factor authentication
 - **Audit Logging:** Comprehensive activity tracking
-- **Compliance:** SOC 2, GDPR, and industry standard adherence
+- **Compliance:** SOC 2(System and Organization Controls 2 by AICPA), GDPR(General Data Protection Regulation by EU), and industry standard adherence

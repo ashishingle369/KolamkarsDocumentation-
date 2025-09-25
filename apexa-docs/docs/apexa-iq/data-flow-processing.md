@@ -20,7 +20,7 @@ The ApexaIQ data flow follows a carefully orchestrated process designed to ensur
 **Stage 1: Data Collection (Accelerators)**
 - **Location:** Deployed in your network environment or AWS regions
 - **Technology:** Python-based Docker containers
-- **Methods:** NMAP scanning, WMI queries, API integrations
+- **Methods:** NMAP scanning, WMI(Windows Management Instrumentation) queries, API integrations
 - **Sources:** Network devices, security tools, cloud platforms, existing MDM systems
 - **Frequency:** Automated 24-hour cycles via cronjobs
 
