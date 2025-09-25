@@ -138,7 +138,7 @@ title: Terminology
 
 - **Financial Loss:** Fines, penalties, or theft of funds.
 - **Reputation Damage:** Loss of customer trust and brand credibility.
-- **Legal & Compliance Issues:** Violations of regulations like GDPR, HIPAA, or PCI-DSS.
+- **Legal & Compliance Issues:** Violations of regulations like GDPR(General Data Protection Regulation), HIPAA( Health Insurance Portability and Accountability Act), or PCI-DSS(Payment Card Industry Data Security Standard).
 - **Operational Disruption:** Systems may be shut down to investigate or contain the breach.
 
 ## MSP
