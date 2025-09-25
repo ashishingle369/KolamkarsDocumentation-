@@ -17,7 +17,7 @@ title: Appendices
 **Supported Protocols:**
 - **Network Discovery:** NMAP(Network Mapper), SNMP(Simple Network Management Protocol), WMI(Windows Management Instrumentation), SSH(Secure Shell)
 - **Cloud APIs:** AWS, Azure, Google Cloud Platform
-- **Directory Services:** Active Directory, LDAP
+- **Directory Services:** Active Directory, LDAP(Lightweight Directory Access Protocol)
 - **Database Connections:** SQL Server, MySQL, PostgreSQL, Oracle
 
 ### 12.2 Security and Compliance
