@@ -10,7 +10,7 @@ function NotFound() {
   return (
     <Layout
       title="Find What You Need"
-      description="Search or browse ApexaIQ documentation to find what you need."
+      description="Search or browse Kolamkars documentation to find what you need."
     >
       <main className="container margin-vert--xl">
         <div className="row">
@@ -26,7 +26,7 @@ function NotFound() {
               {/* This is a placeholder for the actual search bar */}
               <input
                 type="text"
-                placeholder="Search ApexaIQ Documentation..."
+                placeholder="Search Kolamkars Documentation..."
                 style={{ width: '80%', padding: '10px', borderRadius: '5px', border: '1px solid #ccc' }}
               />
               {/* Integration with Docusaurus search will require further configuration in docusaurus.config.ts and potentially installing a search plugin. */}
@@ -35,41 +35,39 @@ function NotFound() {
               <p>Or, browse our key documentation sections:</p>
               <Link
                 className="button button--primary margin-right--md margin-bottom--sm"
-                to="/docs/apexa-iq/executive-summary"
+                to="/docs/Kolamkars/Introduction"
               >
-                Executive Summary
+                Introduction
               </Link>
               <Link
                 className="button button--secondary margin-right--md margin-bottom--sm"
-                to="/docs/apexa-iq/getting-started-guide"
+                to="/docs/Kolamkars/Abstract"
               >
-                Getting Started Guide
+                Abstract
               </Link>
               <Link
                 className="button button--secondary margin-right--md margin-bottom--sm"
-                to="/docs/apexa-iq/core-modules"
+                to="/docs/Kolamkars/Core%20Features%20and%20Innovation"
               >
-                Core Modules
+                Core Features & Innovation
               </Link>
               <Link
                 className="button button--secondary margin-bottom--sm"
-                to="/docs/apexa-iq/resources"
+                to="/docs/Kolamkars/Technical%20Architecture"
               >
-                Resources
+                Technical Architecture
               </Link>
             </div>
             <div className="margin-top--xl text--center">
               <p>Still can't find what you need? Visit our:</p>
               <Link
                 className="button button--secondary margin-right--md"
-                to="https://github.com/unsettledaverage73/apexaiq-docs"
+                to="https://github.com/ashishingle369/KolamkarsDocumentation-.git"
               >
                 GitHub Repository
               </Link>
-              <Link
-                className="button button--secondary"
-              >
-                ApexaIQ Website
+              <Link className="button button--secondary" to="/">
+                Kolamkars Home
               </Link>
             </div>
           </div>
