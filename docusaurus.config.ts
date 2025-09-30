@@ -84,7 +84,7 @@ const config: Config = {
           items: [
             {
               label: 'Documentation',
-              to: '/docs/apexa-iq/executive-summary',
+              to: '/docs/Kolamkars/Introduction',
             },
           ],
         },
