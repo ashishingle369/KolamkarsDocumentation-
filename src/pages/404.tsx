@@ -68,7 +68,6 @@ function NotFound() {
               </Link>
               <Link
                 className="button button--secondary"
-                to="https://apexaiq.com"
               >
                 ApexaIQ Website
               </Link>

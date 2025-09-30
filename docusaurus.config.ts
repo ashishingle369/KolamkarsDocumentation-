@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Kolamkars SIH Documentation',
+  title: 'Kolamkars',
   tagline: 'Complete Platform Guide',
   // favicon: 'img/image.png',
 
@@ -46,23 +46,9 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/unsettledaverage73/apexaiq-docs/tree/main/apexa-docs/',
+            'https://github.com/ashishingle369/KolamkarsDocumentation-.git',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/unsettledaverage73/apexaiq-docs/tree/main/apexa-docs/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -74,12 +60,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/image.png',
     navbar: {
-      title: undefined,
-      logo: {
-        alt: 'ApexaIQ Logo',
-        src: 'img/image.png',
-        href: 'https://apexaiq.com',
-      },
+      title: 'Kolamkars',
       items: [
         {
           type: 'docSidebar',
@@ -87,7 +68,7 @@ const config: Config = {
           position: 'left',
           label: 'Documentation',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        
         {
           href: 'https://github.com/unsettledaverage73/apexaiq-docs',
           label: 'GitHub',
@@ -127,18 +108,15 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
+            
             {
               label: 'GitHub',
-              href: 'https://github.com/unsettledaverage73/apexaiq-docs',
+              href: 'https://github.com/ashishingle369/KolamkarsDocumentation-.git',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Built by unsettledaverage73, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Built by Kolamkars SIH Team. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

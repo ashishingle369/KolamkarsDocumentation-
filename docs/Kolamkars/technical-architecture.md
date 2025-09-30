@@ -9,6 +9,8 @@ title: Technical Architecture
 
 ## System Architecture and Technical Approach
 
+![System Architecture](../../static/img/data-flow.png)
+
 ### 🖥️ Frontend and Backend Architecture  
 - **Frontend**: React.js for interactive user interfaces  
 - **Backend**: Node.js for server-side processing  
